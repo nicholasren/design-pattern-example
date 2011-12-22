@@ -5,4 +5,4 @@ implemented:
 
 
 to be implemented:
- Strategy, Command
+ Strategy, Command, Factory ...
