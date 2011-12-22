@@ -1,9 +1,8 @@
 this is  a code example of design pattern
 
 implemented: 
- state
+ State
+
 
 to be implemented:
- strategy
- command
- ...
+ Strategy, Command
