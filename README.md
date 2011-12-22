@@ -1,1 +1,1 @@
-this is  a code example of design pattern
+this is  a code example of *state* design pattern
